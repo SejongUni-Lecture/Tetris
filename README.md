@@ -1,4 +1,4 @@
-# Game Tetris
+# Tetris in C
 Class project from SW Basic design
 
 ---
