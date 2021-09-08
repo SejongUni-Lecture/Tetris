@@ -1,8 +1,8 @@
-# Tetris in C
+## Tetris in C
 Class project from SW Basic design
 
 ---
-## Summary
+### Summary
 Tetris game in C language  <br> 
 
 ![](./img/lecture2_2.gif.gif)
